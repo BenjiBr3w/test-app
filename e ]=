@@ -1,0 +1,12 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6004
+    [34mall[39m: [
+      [34;4mApp\Models\Player[39;24m {#5187
+        [34mid[39m: [35m1[39m,
+        [34mcreated_at[39m: "[32m2024-10-25 11:05:54[39m",
+        [34mupdated_at[39m: "[32m2024-10-25 11:05:54[39m",
+        [34mname[39m: "[32mBenji[39m",
+        [34mhandicap[39m: [33m-2.1[39m,
+      },
+    ],
+  }
+
